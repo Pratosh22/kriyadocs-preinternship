@@ -64,9 +64,25 @@ const getFilteredSkills=()=>{
   fs.writeFileSync("./outputFiles/skills.txt", skills.join(" ").toLowerCase());
 }
 
+const rankSkills=()=>{
+  const skills=fs.readFileSync('./outputFiles/skills.txt','utf-8');
+  const skillCount={};
+  skills.split(' ').forEach((skill)=>{
+    if(skillCount[skill]){
+      skillCount[skill]++;
+    }
+    else{
+      skillCount[skill]=1;
+    }
+  })
+  console.log(skillCount);
+  fs.writeFileSync("./outputFiles/skillCount.txt",JSON.stringify(skillCount));
+}
+
 
 getSkills(json);
 getFilteredSkills();
+rankSkills();
 
 
 
