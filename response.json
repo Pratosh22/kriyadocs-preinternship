@@ -1,0 +1,599 @@
+[
+  {
+    "title": "Lead Software Engineer (Full Stack Tech Lead)",
+    "jobId": "141122006971",
+    "currency": "INR",
+    "footerPlaceholderLabel": "13 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "A.T. Kearney Consulting (india)",
+    "isSaved": false,
+    "tagsAndSkills": "Python,Docker,Github,Flask",
+    "placeholders": [
+      { "type": "experience", "label": "10-15 Yrs" },
+      { "type": "salary", "label": "Not disclosed" },
+      { "type": "location", "label": "Hybrid - Pune, Bengaluru, Gurgaon" }
+    ],
+    "companyId": 123543049,
+    "jdURL": "/job-listings-lead-software-engineer-full-stack-tech-lead-a-t-kearney-consulting-india-pvt-ltd-pune-gurgaon-gurugram-bangalore-bengaluru-10-to-15-years-141122006971",
+    "staticUrl": "a-t-kearney-consulting-india-jobs-careers-123543049",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/a-dot-t-dot-kearney-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+      "ReviewsCount": 37,
+      "AggregateRating": "2.8",
+      "Title": "A.T. Kearney Reviews by Employees"
+    },
+    "jobDescription": "For Lead Software Engineer position,we are seeking an enthusiastic and passionate full stack web application development professional with extensive hands-on experience in architecting,designing,developing,implementing,and supporting enterprise grade,highly available web applications to lead the development of a suite of digital product solutions",
+    "showMultipleApply": false,
+    "groupId": 7786341,
+    "isTopGroup": 0,
+    "createdDate": 1668424162851
+  },
+  {
+    "title": "Java Full Stack Tech Lead",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/23318.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/23318.gif",
+    "jobId": "061122001931",
+    "currency": "INR",
+    "footerPlaceholderLabel": "21 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "L&T Technology Services (LTTS)",
+    "isSaved": false,
+    "tagsAndSkills": "spring boot,junit,hibernate,Spring,core java,REST API,Micro services,Mockito",
+    "placeholders": [
+      { "type": "experience", "label": "7-9 Yrs" },
+      { "type": "salary", "label": "Not disclosed" },
+      { "type": "location", "label": "Hybrid - Bengaluru" }
+    ],
+    "companyId": 43673,
+    "jdURL": "/job-listings-java-full-stack-tech-lead-l-t-technology-services-ltts-bangalore-bengaluru-7-to-9-years-061122001931",
+    "staticUrl": "larsen-toubro-l-t-jobs-careers-22025",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/l-and-t-technology-services-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+      "ReviewsCount": 1942,
+      "AggregateRating": "3.4",
+      "Title": "L&T Technology Services Reviews by Employees"
+    },
+    "jobDescription": "Should have Strong Experience on,Core Java with at least 8 version,Spring and Spring boot,REST API and Micro services,any of the ORM tool like Hibernate,JPA etc,writing Junit test cases by using Mockito or Power Mock,Postman/ SOAP UI tool<br><br>Should have at least high-level info on Cloud Foundry and overview on CICD pipeline <br><br>Should have Strong Experience on named design patterns",
+    "showMultipleApply": false,
+    "groupId": 23318,
+    "isTopGroup": 0,
+    "createdDate": 1667724393867
+  },
+  {
+    "title": "Solution Architect",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/216316.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/216316.gif",
+    "jobId": "221122009606",
+    "currency": "INR",
+    "footerPlaceholderLabel": "5 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "UST",
+    "isSaved": false,
+    "tagsAndSkills": "Node JS,Azure Technical Stacks,React JS,Agile,SAFe,Scrum,Lean,Mongo Azure",
+    "placeholders": [
+      { "type": "experience", "label": "10-17 Yrs" },
+      { "type": "salary", "label": "Not disclosed" },
+      {
+        "type": "location",
+        "label": "Hybrid - Chennai, Trivandrum, Bengaluru, Kochi"
+      }
+    ],
+    "companyId": 1316,
+    "jdURL": "/job-listings-solution-architect-ust-kochi-cochin-chennai-bangalore-bengaluru-trivandrum-thiruvananthapuram-10-to-17-years-221122009606",
+    "staticUrl": "ust-jobs-careers-1316",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/ust-global-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+      "ReviewsCount": 2486,
+      "AggregateRating": "4.0",
+      "Title": " UST Reviews by Employees"
+    },
+    "jobDescription": "Demonstrable experience with designing,implementing,and deploying scalable and performant web applications at global scale <br><br>Should be Thought leader and visionary and a great team player with great mentoring skills<br><br>Deep understanding of SAFe and Agile with hands-on experience in Scrum,Kanban,or Lean",
+    "showMultipleApply": false,
+    "groupId": 216316,
+    "isTopGroup": 0,
+    "createdDate": 1669111814362
+  },
+  {
+    "title": "C# WPF Full Stack Architect",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/23318.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/23318.gif",
+    "jobId": "061122001899",
+    "currency": "INR",
+    "footerPlaceholderLabel": "21 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "L&T Technology Services (LTTS)",
+    "isSaved": false,
+    "tagsAndSkills": "c#,technical architecture,.net,wpf,sales,written,verbal communication,C# Core",
+    "placeholders": [
+      { "type": "experience", "label": "12-15 Yrs" },
+      { "type": "salary", "label": "Not disclosed" },
+      {
+        "type": "location",
+        "label": "Hybrid - Chennai, Pune, Mysore, Bengaluru, Hyderabad"
+      }
+    ],
+    "companyId": 43673,
+    "jdURL": "/job-listings-c-wpf-full-stack-architect-l-t-technology-services-ltts-mysore-mysuru-pune-chennai-bangalore-bengaluru-hyderabad-12-to-15-years-061122001899",
+    "staticUrl": "larsen-toubro-l-t-jobs-careers-22025",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/l-and-t-technology-services-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+      "ReviewsCount": 1942,
+      "AggregateRating": "3.4",
+      "Title": "L&T Technology Services Reviews by Employees"
+    },
+    "jobDescription": "Extensive experience in solution,system and technical architecture<br><br>Must be highly-organized and detail-oriented<br><br>Extensive experience working in enterprise applications<br><br>Strong experience in managing teams with good knowledge on project financials and revenue<br><br>Experience working in Medical Clinical Applications is good to have",
+    "showMultipleApply": false,
+    "groupId": 23318,
+    "isTopGroup": 0,
+    "createdDate": 1667722783360
+  },
+  {
+    "title": "Full Stack Developer",
+    "jobId": "271022003720",
+    "currency": "INR",
+    "footerPlaceholderLabel": "30+ Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Bridgelabz Solutions",
+    "isSaved": false,
+    "tagsAndSkills": "SQL,Linux,Technical Support,Software Support,Testing,Java,communication,Python",
+    "placeholders": [
+      { "type": "experience", "label": "1-3 Yrs" },
+      { "type": "salary", "label": "4,00,000 - 6,00,000 PA." },
+      { "type": "location", "label": "Hybrid - Chennai, Bengaluru" }
+    ],
+    "companyId": 4828804,
+    "jdURL": "/job-listings-full-stack-developer-bridgelabz-solutions-private-limited-chennai-bangalore-bengaluru-1-to-3-years-271022003720",
+    "staticUrl": "bridgelabz-solutions-jobs-careers-4828804",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/bridgelabz-solutions-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+      "ReviewsCount": 176,
+      "AggregateRating": "4.1",
+      "Title": "BridgeLabz Solutions Reviews by Employees"
+    },
+    "jobDescription": "Excellent Opportunity for IT working professionals looking to switch to developer roles\n\nMust-Have Skills:\n1. Tech work experience\n2. Logical mindset\n3. Good communication\n4. Basic programming skills in any of the languages like Java, C, Python, etc",
+    "showMultipleApply": false,
+    "groupId": 5286502,
+    "isTopGroup": 0,
+    "createdDate": 1666848306200
+  },
+  {
+    "title": "Full Stack Technical Lead",
+    "jobId": "021122007248",
+    "currency": "INR",
+    "footerPlaceholderLabel": "11 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Sureify",
+    "isSaved": false,
+    "tagsAndSkills": "CSS3,MySQL,HTML5,php,React.Js,Golang,Postgresql,Full Stack Web Development",
+    "placeholders": [
+      { "type": "experience", "label": "7-12 Yrs" },
+      { "type": "salary", "label": "Not disclosed" },
+      { "type": "location", "label": "Hybrid - Hyderabad" }
+    ],
+    "companyId": 4025368,
+    "jdURL": "/job-listings-full-stack-technical-lead-sureify-labs-technology-private-limited-hyderabad-secunderabad-7-to-12-years-021122007248",
+    "staticUrl": "sureify-jobs-careers-4774432",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/sureify-labs-technology-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+      "ReviewsCount": 12,
+      "AggregateRating": "4.5",
+      "Title": "Sureify Labs Technology Reviews by Employees"
+    },
+    "jobDescription": "<p>We are looking for a Full Stack Technical Lead who is highly experienced in developing web applications that cover the entire development cycle. Able to guide/mentor the team in the most scalable technical architecture and provide hands-on solutions to drive the team. Closely work with the product team and manage the end to end cycle of the development cycle from ideation to deployment,You will have the opportunity to help our product scale and be involved in the further architecture of the Sureify platform.</p><br /><p><strong>Responsibilities</strong></p><p>Build scalable architecture to support millions of users</p><p>Build reusable patterns and libraries for future use</p><p>Ability to conceptualise a given problem, plan and implement a solution</p><p>Identifying risks and forming contingency plans as soon as possible</p><p>Keeping up-to-date with industry trends and developments</p><p>Ensure the technical feasibility of UI/UX designs</p><p>Motivate team members to learn the required skills and stay up tp date on the execution Optimize application for maximum speed and scalability.</p><br /><p><strong>Skills And Qualifications</strong></p><ul><li>7+ years of experience with Full Stack web development</li><li>Experience designing and building scalable, enterprise-grade applications Must have experience in any one backend technology i.e Golang/PHP/Node JS Must have experience in pure Javascript</li><li>Must have experience in any one JS framework like React/Angular/Vue JS etc</li><li>Experience with Typescript will be added advantage</li><li>Experience working with relational databases such as MySQL, Oracle or Postgres</li><li>A firm understanding of Object Oriented Design as well as common data structures and algorithms</li><li>Strong communication skills, and the ability to work collaboratively in a close-knit team Experience with building restful JSON web services</li><li>Experience in the temporal framework is an added advantage.</li><li>Proficient understanding of web markup, including HTML5, CSS3</li><li>Experience working with 3rd party software integrations (REST APIs, SOAP APIs, XML, JSon, etc.)</li><li>Experience building secure and scalable software (Profilers, APM tools, Security scanning tools)</li><li>Experience with CI/CD tooling</li><li>Proficient understanding of client-side scripting and JavaScript frameworks Good understanding of asynchronous request handling, partial page updates, and AJAX. Use test driven development and acceptance tests to ensure feature quality Knowledge of API's, such as twitter, Facebook, Google maps, Instagram, etc.</li></ul><br /><p><strong>Benefits</strong></p><p>Here is a glimpse of some of the benefits we offer:</p><p>Competitive Salary</p><p>Medical insurance & Accidental insurance to keep you and your family healthy. </p><p>Great team to work with exposure to the best technologies in the industry.</p>",
+    "showMultipleApply": false,
+    "groupId": 3904172,
+    "isTopGroup": 0,
+    "createdDate": 1668575318090
+  },
+  {
+    "title": "Full stack Senior Developer/ Technical Lead",
+    "logoPath": "https://www.naukri.com/hotjobs/images/v3/tryzens_may19.gif",
+    "logoPathV3": "https://www.naukri.com/hotjobs/images/v3/tryzens_may19.gif",
+    "jobId": "181122006934",
+    "currency": "INR",
+    "footerPlaceholderLabel": "9 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Tryzens",
+    "isSaved": false,
+    "tagsAndSkills": "CSS,HTML,javascript,IT Skills,PHP,Software Development,SAP,ui development",
+    "placeholders": [
+      { "type": "experience", "label": "4-9 Yrs" },
+      { "type": "salary", "label": "Not disclosed" },
+      { "type": "location", "label": "Hybrid - Trivandrum" }
+    ],
+    "companyId": 2187308,
+    "jdURL": "/job-listings-full-stack-senior-developer-technical-lead-tryzens-india-pvt-ltd-trivandrum-thiruvananthapuram-4-to-9-years-181122006934",
+    "staticUrl": "tryzens-jobs-careers-2187308",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/tryzens-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+      "ReviewsCount": 6,
+      "AggregateRating": "4.2",
+      "Title": "Tryzens Reviews by Employees"
+    },
+    "jobDescription": "Work from home <br><br>Technical training and certification <br><br>Review estimates with developers to ensure business requirements can be delivered on time with the desired code quality (only in case developers have raised concerns around estimation) <br><br>Preferred<br><br>In-depth understanding and experience of Javascript<br><br>PHP / STRUTS/Spring experience",
+    "showMultipleApply": false,
+    "groupId": 6757357,
+    "isTopGroup": 0,
+    "createdDate": 1668754914832
+  },
+  {
+    "title": "MSBI Tech Lead (MSBI, Power BI Architect/Tech Lead)",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/740642.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/740642.gif",
+    "jobId": "161122004887",
+    "currency": "INR",
+    "footerPlaceholderLabel": "11 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Mercedes Benz",
+    "isSaved": false,
+    "tagsAndSkills": "MSBI,SQL Server Integration Services,Msbi Stack,SSIS",
+    "placeholders": [
+      { "type": "experience", "label": "8-12 Yrs" },
+      { "type": "salary", "label": "22,50,000 - 35,00,000 PA." },
+      { "type": "location", "label": "Hybrid - Bengaluru" }
+    ],
+    "companyId": 447463,
+    "jdURL": "/job-listings-msbi-tech-lead-msbi-power-bi-architect-tech-lead-mercedes-benz-research-and-development-india-pvt-ltd-bangalore-bengaluru-8-to-12-years-161122004887",
+    "staticUrl": "mercedes-benz-jobs-careers-52668",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/mercedes-benz-research-and-development-indi-mbrdi-dot-co-dot-in-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+      "ReviewsCount": 967,
+      "AggregateRating": "4.0",
+      "Title": "Mercedes-Benz Research & Development India  Reviews by Employees"
+    },
+    "jobDescription": "Sound experience in creating and supporting tabular models with Microsoft SSAS and Power BI<br><br> Deep understanding of SQL,TSQL,DAX Experience with administering and supporting both on-premise and Azure environments<br><br> Experience in MSBI tools",
+    "showMultipleApply": false,
+    "groupId": 740642,
+    "isTopGroup": 0,
+    "createdDate": 1668569847540
+  },
+  {
+    "title": "Lead Mean Stack Developer / Mean Stack Architect",
+    "jobId": "101021000037",
+    "currency": "INR",
+    "footerPlaceholderLabel": "1 Day Ago",
+    "footerPlaceholderColor": "green",
+    "companyName": "Pixelque Software",
+    "isSaved": false,
+    "tagsAndSkills": "Meanstack,Mean Stack,Fullstack Development,MEAN stack Architecture,Angular,JIRA,architecture,git",
+    "placeholders": [
+      { "type": "experience", "label": "10-20 Yrs" },
+      { "type": "salary", "label": "15,00,000 - 30,00,000 PA." },
+      { "type": "location", "label": "Hybrid - Ahmedabad(Makarba +1)" }
+    ],
+    "companyId": 6210240,
+    "jdURL": "/job-listings-lead-mean-stack-developer-mean-stack-architect-pixelque-software-private-limited-ahmedabad-10-to-20-years-101021000037",
+    "staticUrl": "pixelque-jobs-careers-6210240",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/pixelque-software-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+      "ReviewsCount": 11,
+      "AggregateRating": "4.3",
+      "Title": "PixelQue Software Reviews by Employees"
+    },
+    "jobDescription": "Must have experience in MEAN stack Architecture<br><br>Required development model is based on git and JIRA<br><br>Excellent experience in MEAN stack (MongoDB,Angular,Node JS)<br><br>Hands-on experience in coding",
+    "showMultipleApply": false,
+    "groupId": 5603572,
+    "isTopGroup": 0,
+    "createdDate": 1669451232017
+  },
+  {
+    "title": "Java Full Stack Developer",
+    "jobId": "211122001098",
+    "currency": "INR",
+    "footerPlaceholderLabel": "6 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Tech Mahindra",
+    "isSaved": false,
+    "tagsAndSkills": "microservices,Jenkins,Agile methodology,Junit,Angular,Core Java,Spring boot framework,Angular JS",
+    "placeholders": [
+      { "type": "experience", "label": "4-7 Yrs" },
+      { "type": "salary", "label": "Not disclosed" },
+      {
+        "type": "location",
+        "label": "Hybrid - Bhubaneshwar, Chennai, Pune, Bengaluru, Coimbatore, Hyderabad, Visakhapatnam, Noida, Mumbai (All Areas)"
+      }
+    ],
+    "companyId": 1224374,
+    "jdURL": "/job-listings-java-full-stack-developer-tech-mahindra-noida-bhubaneswar-visakhapatnam-vizag-hyderabad-secunderabad-pune-chennai-coimbatore-bangalore-bengaluru-mumbai-all-areas-4-to-7-years-211122001098",
+    "staticUrl": "premium-jobs-careers-28629",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/tech-mahindra-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+      "ReviewsCount": 22093,
+      "AggregateRating": "3.7",
+      "Title": "Tech Mahindra Reviews by Employees"
+    },
+    "jobDescription": "<p> </p><p>Greetings from Naukri.com!!</p><p>We do have an urgent opening with<strong> Tech Mahindra</strong> for  on permanent Payroll.</p><br /><br /><p><strong><u>Below are the details FYR-</u></strong></p><p><strong>Job role</strong>: Java Full Stack</p><p><strong>Company Name</strong>: Tech Mahindra</p><p><strong>Job Location</strong>: Hyderabad /Chennai /Bangalore /Pune /Mumbai/ Noida/Vijayawada/vizag/Bhubaneshwar/Chandigarh/Coimbatore</p><p><strong>Experience</strong>:4-6 yrs</p><p><strong>NP:</strong> Immediate to 30 Days</p><br /><br /><p><strong><u>Key skill-</u></strong></p><ul><li>Candidate should be good at development tools exp Junit , Mockito , Sonar , build tools etc</li><li>Java 1.8 they should have stream good exp, Spring boot /API .. check on                     authentication /Authorization</li></ul><br /><p> </p><p><u><strong>Job Description:</strong></u></p><p><strong>Core Java (8 Version), Angular JS/React</strong></p><p><strong>Spring/Spring boot framework</strong></p><ul><li>Responsible for full cycle systems development activities including software design, development, and deployment to launch new systems and enhance existing systems</li><li>Hands on experience using Java technologies.</li></ul><p>Experience/Technical Skills</p><ul><li>Experience in Primary technical skills <strong>Angular OR React and Spring Boot</strong></li><li>Experience with <strong>software delivery tools (GitHub, Jenkins)</strong></li><li>Experience developing in both software tiers  front end, back end and database queries</li><li>Experience integration planning and deliverables (Webservices, API, etc.)</li></ul><p>Knowledge and some experience using Agile methodology</p><p>Primary Skills Requires:- <strong>Core Java , Angular/React.js</strong></p><p><strong>Spring/Spring boot framework</strong></p>",
+    "showMultipleApply": false,
+    "groupId": 589890,
+    "isTopGroup": 0,
+    "createdDate": 1669005141444
+  },
+  {
+    "title": "Technical Project Manager(Full Stack)",
+    "logoPath": "https://www.naukri.com/hotjobs/images/v3/one97_jan14.gif",
+    "logoPathV3": "https://www.naukri.com/hotjobs/images/v3/one97_jan14.gif",
+    "jobId": "181122011154",
+    "currency": "INR",
+    "footerPlaceholderLabel": "9 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Paytm",
+    "isSaved": false,
+    "tagsAndSkills": "React.Js,java,Redux,Full Stack Application Development,Reactjs Workflows,React Native,Java Fullstack",
+    "placeholders": [
+      { "type": "experience", "label": "9-13 Yrs" },
+      { "type": "salary", "label": "Not disclosed" },
+      { "type": "location", "label": "Hybrid - Noida" }
+    ],
+    "companyId": 198177,
+    "jdURL": "/job-listings-technical-project-manager-full-stack-paytm-noida-9-to-13-years-181122011154",
+    "staticUrl": "paytm-jobs-careers-59290",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/paytm-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+      "ReviewsCount": 4493,
+      "AggregateRating": "3.7",
+      "Title": "Paytm Reviews by Employees"
+    },
+    "jobDescription": "More than 8+ years of experience in software development with more than 3 year of experience in handling teams developing different web(react based) <br><br>Working experience on react/ type script for web development<br><br>5+ years of experience in developing applications <br><br>3+ years of experience in team management<br><br>Experience of leading a team",
+    "showMultipleApply": false,
+    "groupId": 144830,
+    "isTopGroup": 0,
+    "createdDate": 1668771784385
+  },
+  {
+    "title": "CitiusTech is hiring For .Net Full Stack Developer - Technical Lead",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/682834.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/682834.gif",
+    "jobId": "061122002496",
+    "currency": "INR",
+    "footerPlaceholderLabel": "20 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Citiustech",
+    "isSaved": false,
+    "tagsAndSkills": "c#,troubleshooting,Web Services,RPC APIs,Angular,Web API,Rest API,Azure",
+    "placeholders": [
+      { "type": "experience", "label": "5-8 Yrs" },
+      { "type": "salary", "label": "Not disclosed" },
+      { "type": "location", "label": "Hybrid - Mumbai, Bengaluru" }
+    ],
+    "companyId": 4430238,
+    "jdURL": "/job-listings-citiustech-is-hiring-for-net-full-stack-developer-technical-lead-citiustech-healthcare-technology-pvt-ltd-mumbai-bangalore-bengaluru-5-to-8-years-061122002496",
+    "staticUrl": "citiustech-jobs-careers-142075",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/citiustech-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+      "ReviewsCount": 754,
+      "AggregateRating": "4.0",
+      "Title": "CitiusTech Reviews by Employees"
+    },
+    "jobDescription": "Good with .NET core,Web Services,Web API,Azure,SQL knowledge <br><br>Must have experience of at least 1 year in .NET core and WebAPI <br><br>Good to have Angular experience <br><br>Prior experience of Healthcare is advantage <br><br>Good to have Azure Knowledge : API FunctionApp,ServiceBus Topic,Subscription,Data Factory and so on",
+    "showMultipleApply": false,
+    "groupId": 682834,
+    "isTopGroup": 0,
+    "createdDate": 1667745792964
+  },
+  {
+    "title": "Technical Architect",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/1288804.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/1288804.gif",
+    "jobId": "151122008091",
+    "currency": "INR",
+    "footerPlaceholderLabel": "12 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Focaloid Technologies",
+    "isSaved": false,
+    "tagsAndSkills": "Saas / Paas,SDLC,Client Management,Solution Architecting,Fullstack Development,IT Skills,Java,Python",
+    "placeholders": [
+      { "type": "experience", "label": "10-15 Yrs" },
+      { "type": "salary", "label": "20,00,000 - 25,00,000 PA." },
+      { "type": "location", "label": "Hybrid - Kochi" }
+    ],
+    "companyId": 4434470,
+    "jdURL": "/job-listings-technical-architect-focaloid-technologies-private-limited-kochi-cochin-10-to-15-years-151122008091",
+    "staticUrl": "focaloid-technologies-jobs-careers-1744934",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/focaloid-technologies-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+      "ReviewsCount": 42,
+      "AggregateRating": "3.9",
+      "Title": "Focaloid Technologies Reviews by Employees"
+    },
+    "jobDescription": "<br /><p>Around 10+ years of overall experience in developing and testing highly scalable software.</p><br /><ul><li>Expertise in designing and implementing complex solutions which is scalable and maintainable in long run</li><li>Sound knowledge in Front end (Angular/React) and Back end (Python/PHP/Node/Java) technologies</li><li>Experience in deploying application considering the Resilience</li><li>Ability to guide developers in implementing new solutions or technologies</li><li>Willingness to learn new technologies, lead POC and suggest solutions</li><li>Experience in design and developing SOA, Micro Services and Hybrid Monolithic architectures.</li><li>Knowledge in DevOps pipeline using Onprem and cloud</li><li>Implementing Code quality assurance tools and techniques</li><li>Extensive knowledge and experience in reactive architecture.</li><li>Adequate experience in highly scalable and load bearing end to end applications development</li><li>Experience in synchronous, asynchronous, event driven based service communication.</li><li>Experience in distributed, centralized, nosql, sql, and graph based database designing.</li><li>Experience Domain driven development, test driven development and behavior driven development.</li><li>Experience in CQRS and CQS</li><li>Experience in Containers technologies and its orchestration</li><li>Knowledge of data transformation tools and frameworks.</li><li>Experience in scaling a monolithic application to micro services.</li><li>GCP, AWS, Azure and related technologies.</li><li>Implementing SSO and identity manager solutions</li><li>PAAS and SAAS products development.</li><li>HLD, LLD, DLD, SAD documentation.</li><li>Experience with software development lifecycle (SDLC) processes</li><li>Should be able to analyse the systems and share the estimates based on the suggested architecture and technologies.</li></ul><br /><p>Candidate Profile:</p><ul><li>Bachelor's Degree in Engineering OR Equivalent with 10+ years of IT Software Service Industry experience</li><li>A track record of performance excellence meeting and exceeding targets and objectives</li><li>Experience developing and executing tactical plans for lead generation, and appointment fixing.</li><li>Respectful and outstanding account management and communication skills</li><li>Strong command in Selling Solutions and managing multiple clients</li></ul>",
+    "showMultipleApply": false,
+    "groupId": 1288804,
+    "isTopGroup": 0,
+    "createdDate": 1668499175545
+  },
+  {
+    "title": "Senior Technical Lead - .Net Full Stack (Immediate Joiner)",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/4314276.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/4314276.gif",
+    "jobId": "261022006340",
+    "currency": "INR",
+    "footerPlaceholderLabel": "30+ Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Maven Wave Partners",
+    "isSaved": false,
+    "tagsAndSkills": "Angularjs,Javascript,ASP.Net MVC,SQL,IT Skills,.Net,.Net Core,LINQ",
+    "placeholders": [
+      { "type": "experience", "label": "6-11 Yrs" },
+      { "type": "salary", "label": "Not disclosed" },
+      { "type": "location", "label": "Hybrid - Mohali, Chandigarh, Gurgaon" }
+    ],
+    "companyId": 4016542,
+    "jdURL": "/job-listings-senior-technical-lead-net-full-stack-immediate-joiner-maven-wave-partners-india-pvt-ltd-mohali-sas-nagar-chandigarh-gurgaon-gurugram-6-to-11-years-261022006340",
+    "staticUrl": "maven-wave-partners-jobs-careers-5175386",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/maven-wave-partners-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+      "ReviewsCount": 79,
+      "AggregateRating": "4.4",
+      "Title": "Maven Wave Partners Reviews by Employees"
+    },
+    "jobDescription": "Experience - 7 to 12 Years <br><br>Experience in Angular 5+,AngularJS,Javascript,jQuery,TypeScript,Ionic<br><br>Good understanding of the .NET Core,C#,.NET framework (0+),ASP.NET MVC,WebAPI,LINQ,Entity Framework",
+    "showMultipleApply": false,
+    "groupId": 4314276,
+    "isTopGroup": 0,
+    "createdDate": 1666773536982
+  },
+  {
+    "title": "Java Full Stack Developer/Lead",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/2114.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/2114.gif",
+    "jobId": "281022009140",
+    "currency": "INR",
+    "footerPlaceholderLabel": "30 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Tech Mahindra",
+    "isSaved": false,
+    "tagsAndSkills": "angular,java,kafka,React,analytical,Design Patterns,Spring Boot,Microservices",
+    "placeholders": [
+      { "type": "experience", "label": "10-15 Yrs" },
+      { "type": "salary", "label": "Not disclosed" },
+      {
+        "type": "location",
+        "label": "Hybrid - Chennai, Pune, Bengaluru, Hyderabad"
+      }
+    ],
+    "companyId": 100007,
+    "jdURL": "/job-listings-java-full-stack-developer-lead-tech-mahindra-ltd-hyderabad-secunderabad-pune-chennai-bangalore-bengaluru-10-to-15-years-281022009140",
+    "staticUrl": "tech-mahindra-jobs-careers-1066",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/tech-mahindra-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+      "ReviewsCount": 22093,
+      "AggregateRating": "3.7",
+      "Title": "Tech Mahindra Reviews by Employees"
+    },
+    "jobDescription": "<p><strong>Roles and Responsibilities</strong> </p><p> </p><ul><li>10+ years of experience of Fullstack development experience using Java</li><li>5+ years of experience of Angular/React development experience (enterprise scale preferred)</li><li>5+ years of experience leading development teams</li><li>Strong expertise on Microservices development</li><li>Strong expertise in Spring Boot</li><li>Understanding of Spring Annotations</li><li>Understanding of Design Patterns</li><li>Strong analytical and problem solving Skill</li><li>Microservices architecture experience</li><li>Good knowledge in CI/CD development and support (GitHub Actions preferred)</li><li>Strong communicator and quick learner</li><li>Platform-level DevOps experience preferred</li></ul><br /><p><strong>Desired Candidate Profile</strong> </p><p>  </p><ul><li>Kafka Experience ( event-driven architectures)</li><li>Experience with Docker/K8s</li><li>Experience with Azure Cloud</li></ul><br /><br /><br />",
+    "showMultipleApply": false,
+    "groupId": 2114,
+    "isTopGroup": 0,
+    "createdDate": 1666954548988
+  },
+  {
+    "title": "Engineer / Senior Engineer- CMS/Wordpress (Full stack PHP+ Frontend)",
+    "jobId": "251122006770",
+    "currency": "INR",
+    "footerPlaceholderLabel": "2 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Forbes Technologies",
+    "isSaved": false,
+    "tagsAndSkills": "css,Wordpress,PHP,html,javascript,front end,Drupal,MySQL",
+    "placeholders": [
+      { "type": "experience", "label": "2-7 Yrs" },
+      { "type": "salary", "label": "Not disclosed" },
+      {
+        "type": "location",
+        "label": "Hybrid - Chennai, Hyderabad, Mumbai (All Areas)"
+      }
+    ],
+    "companyId": 5145288,
+    "jdURL": "/job-listings-engineer-senior-engineer-cms-wordpress-full-stack-php-frontend-forbes-technologies-hyderabad-secunderabad-chennai-mumbai-all-areas-2-to-7-years-251122006770",
+    "staticUrl": "forbes-technologies-jobs-careers-5145288",
+    "jobDescription": "<p><strong>Forbes Advisor</strong> is a new initiative for consumers under the Forbes Marketplace umbrella that provides journalist- and expert-written insights, news and reviews on all things personal finance, health, business, and everyday life decisions. </p><p>We do this by providing consumers with the knowledge and research they need to make informed decisions they can feel confident in, so they can get back to doing the things they care about most.</p><br /><p>Forbes Advisor is having multiple openings for these roles- Senior Engineer / Associate Lead/  Tech Lead / Architect etc. The ideal candidate should have a strong background in building large scale distributed systems & products. </p><br /><p>If you're looking for challenges and opportunities similar to those of a startup, with the benefits of a seasoned and successful company, then read on:</p><br /><p><strong>Responsibilities:</strong></p><ul><li>Work with Engineering managers to understand requirements from them and design and implement solutions. </li><li>Key and active member in managing all content-related activities for projects, especially CMS-based web builds and updates </li><li>Responsible for documenting and communicating application design, topologies, and architecture in an understandable way to peers and the business </li><li>You excel working with User Experience, Product Management, Engineering and Marketing to achieve great web experiences </li><li>Partner with Engineering & Other Teams on new frameworks, feature sets and functionality </li><li>Lead and coach team members toward thought leadership and project excellence </li><li>Provide technical leadership to team members and be a team player. </li><li>Obsessed with best software engineering practices such as TDD, continuous integration, delivery, and deployment and implementing them</li></ul><br /><p><strong>Requirements: </strong></p><ul><li>Must have a Bachelors degree in computer science or equivalent </li><li>3+ years of experience using CMS (Content management system) and development experience.</li><li>Experience with web applications and programming languages such as PHP, Javascript , HTML, CSS, Bootstrap etc</li><li>Candidates should have good knowledge in API Integration, Coding, Wordpress Plugin, Customisation, themes. Also should have Hosted Websites. </li><li>Experience with UI, cross-browser compatibility, general web functions        </li><li>Understand digital data layer and concepts of dynamic web pages </li><li>Experience with Agile scrum methodologies and JIRA preferred </li></ul><br /><p><strong>Technology Experience (Required) : </strong></p><ul><li>Backend: PHP (Must) </li><li>Front - End: React/ Next Js / AngularJS or similar and other Web technologies </li><li>Cloud: Amazon AWS/ Google Cloud </li><li>Data Stores: Postgres/MongoDB/Dynamodb etc </li><li>ElasticSearch, Redis or similar caching and search frameworks </li><li>System Security, Scalability, System Performance experience </li><li>CICD : Kubernetes/ Terraforms/ Ansible/ Jenkins or similar </li></ul><br /><p><strong>Perks:</strong></p><ul><li>Fully stocked pantry</li><li>Gaming area with table tennis, pool, and carom tables</li><li>Amphitheatre for screening sports events, movies, and town halls</li><li>Paid paternity and maternity leaves</li><li>Day off on the 3rd Friday of every month</li></ul><br /><br />",
+    "showMultipleApply": false,
+    "groupId": 6756093,
+    "isTopGroup": 0,
+    "createdDate": 1669362737712
+  },
+  {
+    "title": "Senior Full Stack Java Developer",
+    "jobId": "251122000074",
+    "currency": "INR",
+    "footerPlaceholderLabel": "2 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Divini Software",
+    "isSaved": false,
+    "tagsAndSkills": "Java,REST API,Hibernate,ReactJS,Spring Boot,Azure,Docker,SQL Server",
+    "placeholders": [
+      { "type": "experience", "label": "3-8 Yrs" },
+      { "type": "salary", "label": "Not disclosed" },
+      { "type": "location", "label": "Hybrid - Chennai, Bengaluru" }
+    ],
+    "companyId": 6699171,
+    "jdURL": "/job-listings-senior-full-stack-java-developer-divini-software-private-limited-chennai-bangalore-bengaluru-3-to-8-years-251122000074",
+    "staticUrl": "divini-jobs-careers-6699171",
+    "jobDescription": "<p>DivIni (www.divinisoft.com) is looking for a Senior Full Stack Java Developer who can work on challenging projects for our premium US based client. </p><br /><p>We are looking for a dynamic and motivated individual, who can successfully deliver the solution independently. We have challenging work, believe in motivating each other and in having a great team.</p><br /><p><strong>Requirements</strong></p><br /><p>* Requires a Bachelor's degree in Computer Science or similar</p><p>* Around <strong>3-8 years</strong> of real-world experience developing enterprise software applications</p><p>* Strong Programming skills in <strong>Java</strong></p><p>* Experience with <strong>REST</strong> based web services</p><p>* Experience with <strong>Spring Boot </strong>and ORM frameworks like <strong>Hibernate</strong></p><p>* Experience developing HTML5 web applications (<strong>ReactJS </strong>or any one of <strong>Angular/VueJS</strong>)</p><p>* Experience working with Relational Databases (<strong>SQLServer, Oracle, MySQL</strong> etc.,)</p><p>* Significant experience in the design and implementation of complex systems</p><p>* Strong written and verbal communication skills are a must</p><p>* Familiar with standard concepts, practices, and procedures within the software development industry</p><p>* Ability to work with large and complex data sets</p><br /><p><strong>Duties</strong></p><br /><p>* Design and develop highly scalable REST based services</p><p>* Design data model, DAO's to talk to database and develop backend code</p><p>* Develop front-end HTML5 UI using ReactJS</p><p>* Review code developed by other team members</p><p>* Assist in the estimation of product development efforts</p><p>* Follow development processes, coding standards, and methodologies</p><p>* Resolve technical issues through debugging, research, and investigation</p><p>* Perform a variety of tasks, and adapts to working on code which is unfamiliar</p><p>* Creative ideas are suggested to solve problems</p><p>* Professional communication skills are utilized, and made a primary focus</p><br /><p><strong>Additional preferred skills</strong></p><br /><p>* Experience with cloud based systems (<strong>Azure, AWS</strong> etc.,)</p><p>* Experience with <strong>Docker</strong></p><p>* Experience working with Unix/Linux systems</p><p>* Experience with Maven</p><p>* Experience using Git</p><p>* Exposure to SCRUM or other agile development processes.</p><p>* Eclipse IDE</p><p>* Experience in the Financial Services industry a plus</p><p>* Experience with a variety of testing tools</p><p>* Experience leveraging open-source tools and technologies</p><br /><p>Compensation includes a competitive salary commensurate with experience.</p><br />",
+    "showMultipleApply": false,
+    "groupId": 5948580,
+    "isTopGroup": 0,
+    "createdDate": 1669321039395
+  },
+  {
+    "title": "Sr Engineer / Tech Lead - Radar SW",
+    "jobId": "191122004789",
+    "currency": "INR",
+    "footerPlaceholderLabel": "8 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "J Chris Global Services",
+    "isSaved": false,
+    "tagsAndSkills": "Radar SW stack,Automotive SW development,RADAR algorithm,IT Skills,Machine Learning,c++,c,Adas",
+    "placeholders": [
+      { "type": "experience", "label": "2-7 Yrs" },
+      { "type": "salary", "label": "10,00,000 - 16,00,000 PA." },
+      { "type": "location", "label": "Hybrid - Chennai" }
+    ],
+    "companyId": 3624184,
+    "jdURL": "/job-listings-sr-engineer-tech-lead-radar-sw-j-chris-global-services-chennai-2-to-7-years-191122004789",
+    "staticUrl": "j-chris-global-services-jobs-careers-3624184",
+    "jobDescription": "<p>Job Description</p><p>The job involves design and development of Automotive embedded Software used for RADAR data capture pipeline and Radar Data processing. The Job includes</p><ul><li> Leads and Architects the SW needs for RADAR data processing</li><li> Analyse the customer requirements to come up with SW design for ADAS application</li><li> Design and Development of RADAR algorithms, configure, optimize into automotive embedded platforms</li><li> ASPICE/Functional safety process compliance</li></ul><p>Required Skills</p><ul><li> 2 to 5 years of hands-on Automotive SW development experience with C and C++.</li><li> Complete Understanding of Radar SW stack</li><li> Must have exposure and development experience in RADAR signal processing algorithms- Detection, Tracking and Beam forming etc.,</li><li> Should be very good in DSP fundamentals.</li><li> Strong Mathematical and Algorithm Development Skills</li><li> Educational Qualification: BE/BS in CS or EE is required, Mtech/MS is preferred</li></ul><p>Preferred Skills</p><ul><li> MATLAB/ Research experience</li><li> Experience in ADAS or related areas</li><li> Understanding of principles of other sensors like camera and LIDAR</li><li> Basic Understanding of AI and Machine Learning</li><li> Understanding of sensor calibration</li></ul>",
+    "showMultipleApply": false,
+    "groupId": 2897684,
+    "isTopGroup": 0,
+    "createdDate": 1668837502595
+  },
+  {
+    "title": "Fullstack Developer",
+    "jobId": "021122007918",
+    "currency": "INR",
+    "footerPlaceholderLabel": "25 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Quloi",
+    "isSaved": false,
+    "tagsAndSkills": "Mern Stack,Node J,MongoDB,React.Js,Communication Skills,Backend,Express,Frontend Development",
+    "placeholders": [
+      { "type": "experience", "label": "3-5 Yrs" },
+      { "type": "salary", "label": "Not disclosed" },
+      { "type": "location", "label": "Hybrid - Pune(Viman Nagar)" }
+    ],
+    "companyId": 6097802,
+    "jdURL": "/job-listings-fullstack-developer-quloi-private-limited-pune-3-to-5-years-021122007918",
+    "staticUrl": "quloi-jobs-careers-6097802",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/quloi-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+      "ReviewsCount": 2,
+      "AggregateRating": "3.3",
+      "Title": "Quloi Reviews by Employees"
+    },
+    "jobDescription": "We are looking to hire a Full Stack Developer (MERN Stack) who will be focusing on building the next generation logistics solutions, working on new-age technologies, supporting customers across multiple geographies",
+    "showMultipleApply": false,
+    "groupId": 6600073,
+    "isTopGroup": 0,
+    "createdDate": 1667380374266
+  },
+  {
+    "title": "Full Stack Developer",
+    "jobId": "021122004976",
+    "currency": "INR",
+    "footerPlaceholderLabel": "25 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Bridgelabz Solutions",
+    "isSaved": false,
+    "tagsAndSkills": "SQL,Linux,Technical Support,Software Support,Testing,C,Java,Python",
+    "placeholders": [
+      { "type": "experience", "label": "1-3 Yrs" },
+      { "type": "salary", "label": "4,00,000 - 6,00,000 PA." },
+      { "type": "location", "label": "Hybrid - Pune, Delhi NCR" }
+    ],
+    "companyId": 4828804,
+    "jdURL": "/job-listings-full-stack-developer-bridgelabz-solutions-private-limited-pune-delhi-ncr-1-to-3-years-021122004976",
+    "staticUrl": "bridgelabz-solutions-jobs-careers-4828804",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/bridgelabz-solutions-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+      "ReviewsCount": 176,
+      "AggregateRating": "4.1",
+      "Title": "BridgeLabz Solutions Reviews by Employees"
+    },
+    "jobDescription": "Excellent Opportunity for IT working professionals looking to switch to developer roles\n\nMust-Have Skills:\n1. Tech work experience\n2. Logical mindset\n3. Good communication\n4. Basic programming skills in any of the languages like Java, C, Python, etc",
+    "showMultipleApply": false,
+    "groupId": 5286502,
+    "isTopGroup": 0,
+    "createdDate": 1667367154638
+  }
+]

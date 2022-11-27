@@ -1,0 +1,21 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "KriyaDocs job scrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pratosh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "google-search-results-nodejs": "^2.1.0",
+    "node-fetch": "^2.6.7",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9",
+    "stopword": "^2.0.5"
+  },
+  "type": "commonjs"
+}
