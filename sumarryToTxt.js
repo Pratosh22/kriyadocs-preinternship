@@ -74,8 +74,7 @@ const rankSkills=()=>{
     else{
       skillCount[skill]=1;
     }
-  })
-  console.log(skillCount);
+  });
   fs.writeFileSync("./outputFiles/skillCount.txt",JSON.stringify(skillCount));
 }
 
