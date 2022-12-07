@@ -52,7 +52,7 @@ exports.scrapeMethod = function (location, noOfResults, res) {
       const s = scanner.rankSkills();
 
       if (s === 1) {
-        res.end("No skills found");
+        res.end("No skills found.Try increasing the number of results");
       } else {
         //reads the html of the page to display rank skills
         const scrapeHtml = fs
