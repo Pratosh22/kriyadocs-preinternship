@@ -24,6 +24,7 @@ const skillDict = [
   "html",
   "js",
   "nosql",
+  "communication",
 ];
 
 //getting skiils from response json
@@ -54,7 +55,6 @@ exports.getFilteredSkills = () => {
   const skills = rawSkills.match(
     new RegExp(`\\b(${skillDict.join("|")})\\b`, "gi")
   );
-
   //if no rawSkills match then handle the Error
   if (!skills) {
     fs.writeFileSync("./filteredSkills.txt", "1");
@@ -81,6 +81,7 @@ exports.rankSkills = () => {
   //splitting the skills into an array
   else {
     const skillCount = {};
+    //converts skills to an array
     skills.split(" ").forEach((skill) => {
       if (skillCount[skill]) {
         skillCount[skill]++;

@@ -74,7 +74,7 @@ exports.scrapeMethod = function (location, noOfResults, res) {
         const numbers = newArr.filter((item) => {
           return typeof item === "number";
         });
-
+        
         //variable to store the html
         let skillCountString = "";
 
