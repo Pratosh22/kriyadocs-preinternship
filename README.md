@@ -7,5 +7,6 @@
 
 # INSTRUCTIONS
 ### 1. Clone the repository
-### 2. Run index.js using npm start
-### 3. Open localhost:{portnumber} IN YOUR BROWSER
+### 2. Run npm i 
+### 3. Run index.js using npm start
+### 4. Open localhost:8000 IN YOUR BROWSER
