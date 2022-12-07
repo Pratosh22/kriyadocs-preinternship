@@ -42,7 +42,6 @@ const newData=Data.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, " ")
 
 //writing the new data to a new file
 
-// fs.writeFileSync("./regexSkills.txt","");
 fs.appendFileSync('./regexSkills.txt',newData);
 console.log("Done getSkills!")
 
@@ -61,7 +60,6 @@ exports.getFilteredSkills=()=>{
   ];
 
   //writes the filtered skills to a file
-  // fs.writeFileSync("./filteredSkills.txt", "");
   fs.appendFileSync("./filteredSkills.txt", skills.join(" ").toLowerCase());
   console.log("Done filteredskills")
 }
@@ -83,7 +81,6 @@ exports.rankSkills=()=>{
   });
 
   //rank the skills based on frequency
-  // fs.writeFileSync("./skillcount.json", "");
 
   //sorting the skills based on frequency
   const rankedSkills=Object.entries(skillCount).sort((a,b)=>b[1]-a[1]);

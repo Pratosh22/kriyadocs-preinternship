@@ -28,7 +28,6 @@ exports.scrapeMethod = function (location, noOfResults, res) {
   request(options, function (err, response, body) {
     if (!err) {
       //clear files every request
-      
       fs.writeFileSync("./response.json", "");
       fs.writeFileSync("./skillCount.json", "");
       fs.writeFileSync("./rawSkills.txt", "");

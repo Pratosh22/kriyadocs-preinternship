@@ -3,4 +3,8 @@ node_modules
 .gitattributes
 .DS_Store
 .vscode
-
+skillcount.json
+rawSkills.txt
+regexSkills.txt
+filteredSkills.txt
+response.json
