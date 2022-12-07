@@ -10,3 +10,8 @@
 ### 2. Run npm i 
 ### 3. Run index.js using npm start
 ### 4. Open localhost:8000 IN YOUR BROWSER
+
+# PROCESS
+### 1. scrapeMethod fetches the data and returns the json file
+### 2. summaryToTxt.js contains the functions for processing the data fetched from scrapeMethod
+### 3. index.js contains the code for the server

@@ -33,12 +33,12 @@ exports.scrapeMethod = function (location, noOfResults, res) {
       fs.writeFileSync("./rawSkills.txt", "");
       fs.writeFileSync("./regexSkills.txt","");
       fs.writeFileSync("./filteredSkills.txt", "");
-      console.log("res done");
+      
       fs.appendFileSync(
         "./response.json",
         JSON.stringify(response.body.jobDetails)
       );
-
+      console.log("res done");
       //reads the new response file
       const data = fs.readFileSync("./response.json", "utf-8");
 
