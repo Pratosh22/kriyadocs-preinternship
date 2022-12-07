@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&family=Roboto:wght@400;900&display=swap"
+        rel="stylesheet" />
+    <title>Document</title>
+</head>
+<style>
+    body {
+        background-color: #FAF7F0;
+    }
+
+    /*align label left to the input field*/
+
+    h1 {
+        font-family: "Roboto";
+        font-weight: 900;
+        color: #1b2437;
+    }
+
+    p {
+        font-family: "Poppins";
+        color: #1b2437;
+    }
+
+    label {
+        font-family: "Poppins";
+        color: #1b2437;
+    }
+
+    input {
+        border-radius: 10px;
+        box-shadow: none;
+        border: 1px solid #1b2437;
+        padding: 10px;
+        font-family: "Poppins";
+        color: #1b2437;
+    }
+
+    .input {
+        margin-top: 1rem;
+       
+    }
+    .left{
+        margin-bottom: 10px;
+    }
+
+    label{
+        display: inline-block;
+        width: 200px;
+        text-align: left;
+      }
+    
+    /* CSS */
+    .button-52 {
+        font-size: 16px;
+        font-weight: 200;
+        letter-spacing: 1px;
+        padding: 13px 20px 13px;
+        outline: 0;
+        border: 1px solid black;
+        cursor: pointer;
+        position: relative;
+        background-color: rgba(0, 0, 0, 0);
+        user-select: none !important;
+        -webkit-user-select: none;
+        touch-action: manipulation;
+    }
+
+    .button-52:after {
+        content: "";
+        background-color: #ffe54c!important;
+        width: 100%;
+        z-index: -1;
+        position: absolute;
+        height: 100%;
+        top: 7px;
+        left: 7px;
+        transition: 0.2s;
+    }
+
+    .button-52:hover:after {
+        top: 0px;
+        left: 0px;
+    }
+
+    .input button {
+        margin-top: 1rem;
+    }
+
+    .input p {
+        margin-top: 2rem;
+    }
+
+    .header {
+        margin-top: 3rem;
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .card {
+        background-color: #AAC4FF;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        padding: 20px;
+        width: 100%;
+        max-width: 500px;
+        margin: 0 auto;
+        margin-top: 3rem;
+    }
+</style>
+
+<body>
+    <div class="header">
+        <center>
+            <h1>Welcome to Naukri Web scrapper</h1>
+        </center>
+        <center>
+            <p>Instantly get top ranked skills of the location you wish!</p>
+        </center>
+    </div>
+    <div class="card">
+        <div class="input">
+            <form action="/" method="post">
+                <div class="left">
+                    <label for="name">Enter the location</label>
+                    <input type="text" class="name" name="location" required />
+                </div>
+                <div class="left">
+                    <label for="number" style="padding-top:2rem;">Enter the number of search results you want.</label>
+                    <input type="number" class="number" name="number" min="0" required />
+                </div>
+                <!-- <div class="left">
+                    <label for="number" style="padding-top:2rem;">Enter the number of pages.</label>
+                    <input type="number" class="number" name="pages" min="1" required />
+                </div> -->
+                <button class="btn button-52">Submit</button>
+                <p>Tap the button to view the most sought skills</p>
+            </form>
+        </div>
+    </div>
+    
+</body>
+
+</html>
