@@ -31,9 +31,9 @@ exports.scrapeMethod = function (location, noOfResults, res) {
       fs.writeFileSync("./response.json", "");
       fs.writeFileSync("./skillCount.json", "");
       fs.writeFileSync("./rawSkills.txt", "");
-      fs.writeFileSync("./regexSkills.txt","");
+      fs.writeFileSync("./regexSkills.txt", "");
       fs.writeFileSync("./filteredSkills.txt", "");
-      
+
       fs.appendFileSync(
         "./response.json",
         JSON.stringify(response.body.jobDetails)
@@ -49,40 +49,44 @@ exports.scrapeMethod = function (location, noOfResults, res) {
       scanner.getFilteredSkills();
 
       //rank the skills
-      scanner.rankSkills();
+      const s = scanner.rankSkills();
 
-      //reads the html of the page to display rank skills
-      const scrapeHtml = fs
-        .readFileSync("./view/scrape.html", "utf-8")
-        .toString();
+      if (s === 1) {
+        res.end("No skills found");
+      } else {
+        //reads the html of the page to display rank skills
+        const scrapeHtml = fs
+          .readFileSync("./view/scrape.html", "utf-8")
+          .toString();
 
-      //stores the skillcount in a variable
-      const skillCount = fs.readFileSync("./skillCount.json", "utf-8");
+        //stores the skillcount in a variable
+        const skillCount = fs.readFileSync("./skillCount.json", "utf-8");
 
-      //converting the json to object
-      const skillCountObj = JSON.parse(skillCount);
+        //converting the json to object
+        const skillCountObj = JSON.parse(skillCount);
 
-      //getting the values of object
-      const skillCountValues = Object.values(skillCountObj);
+        //getting the values of object
+        const skillCountValues = Object.values(skillCountObj);
 
-      const newArr = [].concat(...skillCountValues);
+        const newArr = [].concat(...skillCountValues);
 
-      //extract the numbers from new array and store in a new array
-      const numbers = newArr.filter((item) => {
-        return typeof item === "number";
-      });
+        //extract the numbers from new array and store in a new array
+        const numbers = newArr.filter((item) => {
+          return typeof item === "number";
+        });
 
-      //variable to store the html
-      let skillCountString = "";
+        //variable to store the html
+        let skillCountString = "";
 
-      //looping through the keys and values and storing in a string
-      for (let i = 0; i < numbers.length; i++) {
-        skillCountString += `<li>${newArr[i * 2]} : ${numbers[i]}</li>`;
+        //looping through the keys and values and storing in a string
+        for (let i = 0; i < numbers.length; i++) {
+          skillCountString += `<li>${newArr[i * 2]} : ${numbers[i]}</li>`;
+        }
+
+        const newBody = scrapeHtml.replace("${SKILLS}", skillCountString);
+
+        res.end(newBody);
       }
-
-      const newBody = scrapeHtml.replace("${SKILLS}", skillCountString);
-
-      res.end(newBody);
     }
   });
 };

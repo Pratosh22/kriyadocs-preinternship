@@ -148,5 +148,13 @@
     </div>
     
 </body>
-
+<script>
+    const number = document.querySelector(".number");
+    number.addEventListener("change", function () {
+        if (number.value > 100) {
+            number.value = 100;
+        }
+    });
+    
+</script>
 </html>
