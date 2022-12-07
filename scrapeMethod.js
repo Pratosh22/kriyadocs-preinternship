@@ -27,7 +27,13 @@ exports.scrapeMethod = function (location, noOfResults, res) {
 
   request(options, function (err, response, body) {
     if (!err) {
+      //clear files every request
+      
       fs.writeFileSync("./response.json", "");
+      fs.writeFileSync("./skillCount.json", "");
+      fs.writeFileSync("./rawSkills.txt", "");
+      fs.writeFileSync("./regexSkills.txt","");
+      fs.writeFileSync("./filteredSkills.txt", "");
       console.log("res done");
       fs.appendFileSync(
         "./response.json",
