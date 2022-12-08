@@ -1,34 +1,15 @@
 const stopWords = require("stopword");
 const fs = require("fs");
 
-const skillDict = [
-  "Java",
-  "ReactJS",
-  "MySQL",
-  "php",
-  "MongoDB",
-  "Redux",
-  "Angular",
-  "webdevelopment",
-  "Javascript",
-  "backend",
-  "python",
-  "nodejs",
-  "AI",
-  "ML",
-  "ArtificialIntelligence",
-  "MachineLearning",
-  "Deeplearning",
-  "flutter",
-  "css",
-  "html",
-  "js",
-  "nosql",
-  "communication",
-];
+let skillDict = [];
 
 //getting skiils from response json
-exports.getSkills = (json) => {
+exports.getSkills = (json,skill) => {
+  skillDict=skill;
+  console.log(skillDict);
+  // hardcode skills
+  skillDict.push('javascript');
+
   //fetching the tags and skills from response json
   for (let i = 0; i < json.length; i++) {
     fs.appendFileSync("./rawSkills.txt", json[i].tagsAndSkills);
@@ -52,19 +33,17 @@ exports.getFilteredSkills = () => {
   const rawSkills = fs.readFileSync("./regexSkills.txt", "utf-8");
 
   //create a variable skills and compare rawskills and skilldict and store only the skills that match
-  const skills = rawSkills.match(
-    new RegExp(`\\b(${skillDict.join("|")})\\b`, "gi")
-  );
+  let skills = [
+    ...rawSkills
+      .toString()
+      .match(new RegExp(`\\b(${skillDict.join("|")})\\b`, "gi")), // Extracts the skills from text
+  ];
   //if no rawSkills match then handle the Error
   if (!skills) {
     fs.writeFileSync("./filteredSkills.txt", "1");
     console.log("No skills found");
   }
-  // let skills = [
-  //   ...rawSkills
-  //     .toString()
-  //     .match(new RegExp(`\\b(${skillDict.join("|")})\\b`, "gi")), // Extracts the skills from text
-  // ];
+
   else {
     //writes the filtered skills to a file
     fs.appendFileSync("./filteredSkills.txt", skills.join(" ").toLowerCase());

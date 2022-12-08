@@ -25,16 +25,18 @@
         font-weight: 900;
         color: #1b2437;
     }
-    
+
     .card {
         width: 500px;
-        height: 500px;
+        height: max-content;
         background-color: #fff;
         border-radius: 10px;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        display: grid;
+        display: flex;
+        flex-direction: column;
         place-items: center;
     }
+
     .card {
         background-color: #AAC4FF;
         border-radius: 10px;
@@ -54,17 +56,34 @@
     ol {
         font-family: "Poppins";
         color: #1b2437;
+        
+    }
+    .input{
+        display:flex;
+        place-items: center;
+        flex-direction:column;
+    }
+    .output{
+        display:flex;
+        place-items: center;
+        flex-direction:column;
     }
 </style>
 
 <body>
 
-    <center>
+    <!-- <center>
         <h2>Below are the most required tech stack</h2>
-    </center>
+    </center> -->
     <div class="card">
-        <div class="output">
-            <ol>${SKILLS}</ol>
+        <div class="input">
+            <h3>Your input</h3>
+            <ol>${TECHSTACK}</ol>
+        </div>
+
+        <div class="output" style="margin-top:2rem;text-align:start">
+            <h3>Rank of Inputted Tech Stack</h3>
+            <ol >${SKILLS}</ol>
         </div>
     </div>
 </body>

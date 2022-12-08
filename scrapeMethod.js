@@ -5,7 +5,7 @@ let noOfResults = "";
 let pages = "1";
 const scanner = require("./sumarryToTxt");
 
-exports.scrapeMethod = function (location, noOfResults, res) {
+exports.scrapeMethod = function (location, noOfResults,skill,res) {
   //options for the request
   const options = {
     //url to be scrapped
@@ -39,12 +39,24 @@ exports.scrapeMethod = function (location, noOfResults, res) {
         JSON.stringify(response.body.jobDetails)
       );
       console.log("res done");
+      
       //reads the new response file
       const data = fs.readFileSync("./response.json", "utf-8");
+      
+      //converts the skills to an array
+      let skillArray='';
+      if(skill.includes(",")){
+        skillArray=skill.split(",");
+      } 
 
-      //converts the data to function below
-      scanner.getSkills(JSON.parse(data));
-
+      //store the inputted skills
+      let inputSkills='';
+      for(let i=0;i<skillArray.length;i++){
+        inputSkills+=`<li>${skillArray[i]}</li>`
+      }
+      
+      //process
+      scanner.getSkills(JSON.parse(data),skillArray);
       //filters the data
       scanner.getFilteredSkills();
 
@@ -77,14 +89,14 @@ exports.scrapeMethod = function (location, noOfResults, res) {
         
         //variable to store the html
         let skillCountString = "";
-
+       
         //looping through the keys and values and storing in a string
         for (let i = 0; i < numbers.length; i++) {
           skillCountString += `<li>${newArr[i * 2]} : ${numbers[i]}</li>`;
         }
-
-        const newBody = scrapeHtml.replace("${SKILLS}", skillCountString);
-
+        //looping through the inputted skills and storing
+        let newBody = scrapeHtml.replace("${SKILLS}", skillCountString);
+        newBody = newBody.replace("${TECHSTACK}", inputSkills);
         res.end(newBody);
       }
     }

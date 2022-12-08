@@ -12,7 +12,7 @@ http
         collectRequestData(req, (result) => {
           console.log(result);
           //async
-          scrapper.scrapeMethod(result.location,result.number,res);
+          scrapper.scrapeMethod(result.location,result.number,result.skill,res);
         });
       } else {
         console.log("In home");
